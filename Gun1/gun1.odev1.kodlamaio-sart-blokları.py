@@ -41,3 +41,4 @@ if yoklamadaVarmı:
 else:
     print("Derse katılamış")
 print("--------------------")
+

@@ -24,3 +24,5 @@ Veri Tipleri:
 
 • Bytes (bytes):
 	Biz Python'da kod yazarken, string verileri kullanırken UNICODE Code Point'ler ile muhatap oluruz. Bunlar, bizim kullandığımız verileri bilgisayarın 	anlayacağı Byte ve Bit'lere dönüştüren yapılardır. Böylece biz doğrudan byte'larla muhatap olmadan işimizi daha rahat hallederiz. Ancak şifre 	algoritmaları oluşturmak kullanmak gibi bazı işlerde doğrudan byte'larla muhatap olmamız gerekbiliyor. Bu gibi durumlarda "bytes, bytearray, memoryview" 	gibi veri tiplerinden yararlanıyoruz. Bunlar array mantığıyla çalışan byte dizileridir.
+
+

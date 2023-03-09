@@ -10,3 +10,5 @@ Kodlama.io Sitesi İnceleme:
 • Herhangi Bir Kurs -> Soldaki Navbar: Dersler, her ders için bir objede {tarih, ders programı, değerlendirme, [ödevler dizisi]} şeklinde tutulmuş olabilir.
 
 • Herhangi Bir Kurs -> Yorumlar: Array ile {kullanıcı adı, profil fotoğrafı, yorum metni} şeklinde tutulmuş olabilir.
+
+
