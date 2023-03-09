@@ -22,7 +22,7 @@ degerlendirmeYapılmısMı = True
 yoklamadaVarmı = False
 
 if odev1YapılmısMı:
-    print("Ödev 1 yapılmış") 
+    print("Ödev 1 yapılmış")
 else:
     print("Ödev 1 yapılmamış")
 
